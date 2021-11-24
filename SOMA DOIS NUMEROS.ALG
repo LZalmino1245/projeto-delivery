@@ -1,0 +1,13 @@
+Algoritmo "SOMA DOIS NUMEROS"
+
+Var
+ N1, N2, D: INTEIRO
+
+Inicio
+ ESCREVAL("DIGITE DOIS NUMEROS")
+LEIA(N1)
+LEIA(N2)
+D<-N1+N2
+ESCREVA("A SOMA EH INGUAL A ",D)
+
+Fimalgoritmo
